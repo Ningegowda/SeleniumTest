@@ -1,13 +1,15 @@
 # SeleniumTest
 
-Tools
+# Tools
+
 Maven
 Rest Assured
 Java
 TestNG
 
 
-Requirements
+# Requirements
+
 In order to utilise this project you need to have the following installed locally:
 
 Maven 3
@@ -21,7 +23,8 @@ mvn clean install
 To run API tests only, navigate to SeleniumTest directory and run:
 
 
-Reporting
+#Reporting
+
 Reports for each module are written into their respective /target directories after a successful run.
 
 API acceptance tests result in a HTML report for each feature in SeleniumTest/target/surefire-reports\emailable-report.html.
