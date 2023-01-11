@@ -17,13 +17,14 @@ Rest Assured 5.3.0
 Java 14
 TestNG 7.4.0
 
+# Running commend
 
 mvn clean install
 
 To run API tests only, navigate to SeleniumTest directory and run:
 
 
-#Reporting
+# Reporting
 
 Reports for each module are written into their respective /target directories after a successful run.
 
